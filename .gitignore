@@ -1,0 +1,4 @@
+defs.json
+*.swp
+__pycache__
+token.txt
